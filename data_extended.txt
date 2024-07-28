@@ -1,0 +1,660 @@
+Görüşmek üzere.
+Yine görüşürüz.
+Merhaba, nasılsınız?
+İyiyim. Teşekkür ederim.
+Siz nasılsınız?
+Adınız ne?
+Adım Berat.
+Benim adım Berat.
+Kim olduğunuzdan söz edebilir misiniz?
+Sizin adınız ne?
+Tanıştığımıza memnun oldum.
+Ben de memnun oldum.
+Allah’a ısmarladık.
+Güle güle.
+Kusura bakmayın.
+Affedersiniz.
+Özür dilerim.
+Rica ederim.
+Önemli değil.
+Lütfen bana yardım eder misiniz?
+Hayırlı işler!
+Başınız sağ olsun!
+Tebrik ederim!
+Geçmiş Olsun!
+Bol şanslar!
+Doğum Gününüz Kutlu Olsun!
+Bayramınız Kutlu Olsun!
+Yeni yılınız kutlu olsun!
+Afiyet olsun!
+Sağlık olsun!
+Güle güle kullanın!
+Hayırlı olsun!
+Sıhhatler olsun!
+Mutlu bayramlar!
+İyi eğlenceler!
+Başarılar!
+Saat kaç?
+Saat sekize on var.
+Bugün ayın kaçı?
+Bugün ayın ondördü.
+Hangi mevsimdeyiz?
+Hangi aydayız?
+Kaç yaşındasınız?
+Bugün günlerden ne?
+Doğum tarihiniz ne?
+Bugün hava nasıl?
+Sabahleyin kaçta açıyorsunuz?
+Ne zaman açıksınız? 
+Kaça kadar açıksınız?
+Pazar günleri açık mısınız?
+Yardımcı olabilir miyim?
+İhtiyacımız olursa sizi çağırırız?
+Neye bakmıştınız?
+Teşekkürler sadece bakıyorduk.
+Soyunma odaları şu tarafta.
+Baktığınız bir şey var mı?
+Nasıl bir şey bakmıştınız?
+Kaç beden giyiyorsunuz?34 beden istiyorum.
+Tam sizin bedeniniz var.Bunun daha büyük bir bedeni var mı?
+Bunu öneriyorum.
+Erkek giyimi ne tarafta?
+Ayakkabı reyonu nerede?
+Bir çift eldiven istiyorum.
+Bunun mavisi var mı?
+Bu renk sizi açtı.
+Rengini beğenmedim.
+Bunu deneyebilir miyim?
+Tam size göre.
+Sizde harika durdu.
+Size gerçekten çok yakıştı.
+Çok dar.  Çok bol.
+Paket yapar mısınız?
+Sezonluk neleriniz var?
+Ne renk istemiştiniz?
+Karta ne yazalım.
+En sevdiğiniz renk hangisi?
+Borcum ne kadar?
+Bir elbise almak istiyorum.
+Elbiseyi ne renk düşünüyorsunuz?
+Bugün çok zakışıklısınız.
+Bugün çok güzelsiniz.
+Bu elbise kaç lira?
+Vitrindeki etekten rica ediyorum.
+Daha ucuz bir pantolon rica ediyorum.
+Bu elbiseyi deneyebilir miyim?
+Bu elbise bana dar.
+Bunu beğendim, alıyorum.
+Bir çift ayakkabı istiyorum.
+Kaç numara giyiyorsunuz?
+Ne renk istiyorsunuz?
+Bu ayakkabıyı tamir edebilir misiniz?
+Borcum ne kadar?
+Nasıl bir gömlek istiyorsunuz?
+Çok pahalı. İndirim yapamaz mısınız?
+Kardeşim kıravat takıyor.
+Annem küpe takıyor.
+Pantolonu ütülediniz mi?
+Çamaşırları yıkadın mı?
+Bugün bayram alış verişi yapacağız.
+Gömlek size çok yakışmış.
+Hangi renkten hoşlanıyorsunuz?Mavi renkten hoşlanıyorum.
+Hangi renk daha güzel?
+Mavi renk daha güzel.
+Sıra var mı?
+Buyrun bir kişi var.
+Nasıl keselim?
+Saç mı sakal mı?
+Sadece saç olacak.
+Kısaltalım mı?
+Her tarafından az kısaltın lütfen.
+Yanlardan biraz kısaltın.
+Yanlardan alın biraz
+Enseyi açalım mı?
+Üstten biraz alın
+Sağa doğru tarıyorum.
+Ortadan ayırıyorum.
+Kulak hizasına kadar kısaltın.
+Kulakları açalım mı?
+Enseyi jiletle mi alayım?
+Makinayla mı alayım?
+Kaç numara yapalım.?
+Yıkayalım mı?
+Fön çekelim mi?
+Jöle ister misiniz?
+Masaj yapalım mı?
+Kulakları temizleyelim mi?
+Yakalım mı yoksa keselim mi?
+Kılları alalım mı?
+Kolonyağı alır mıydınız?
+Jileti değiştirir misiniz?
+Sakal tıraşı olacağım.
+Haydi pikniğe gidelim.
+Ateş yakabilir misin?
+Kibritiniz var mı?
+Odun toplayabilir misin?
+Maç saat kaçta başlıyor?
+Birinci ligde kaç takım var?
+Bu yıl Avrupa şampiyonlar kupasına hangi takımlar katılıyor?
+Orta sahada çok iyi oyuncular var.
+Bugün beş Balkan rekoru kırıldı.
+Yarışmaya hangi ülkeler katılıyor?
+Maç bileti kaç lira?
+Hangi takım şampiyon oldu?
+Olimpiyatlar ne zaman başlıyor?
+Lütfen kaleminizi verir misiniz?
+Anladınız mı?
+Evet anladım.
+Hayır anlamadım.
+Okula ne ile geliyorsun?
+Eve ne ile gideceksin?
+Bugün hangi konuyu işlediniz?
+Bugün okulda çok ilginç bir konu işledik.
+Öğrenciler teneffüste çay içiyorlar.
+Hangi okula gidiyorsun?
+Hangi okulda okuyorsun?
+Nerede okuyorsunuz?
+Bilgisayar Lisesi’nde okuyorum
+Alfebeyi biliyor musun?
+Pencereyi kapatabilir miyim?
+Pencereyi açabilir miyim?
+Hocam! İmtihandan kaç aldım?
+Bize kızdınız mı?
+Bana kızdınız mı?
+Bugün Türkçe var mı?
+Yarın hangi dersler var?
+Kaçıncı sınıftasın?
+Hangi bölümde okuyorsunuz?
+Ekonomide okuyorum.
+Ev telefon numaranız kaç?
+Cep telefon numaranız kaç?
+Eviniz kaç odalı?
+Burası neresi?
+Osman bey neyin oluyor?
+Kardeşime mektup yazıyorum.
+Babam sigara içmez.
+Baban nerede çalışıyor?
+Kaç kardeşin var?
+Geçen hafta ayağım burkuldu.
+Uzağı göremiyorum.
+Kulaklarım duymuyor.
+Ne zamandan beri başınız ağrıyor?
+Başım ağrıyor.
+Dişim ağrıyor.
+Dişim çürük.
+Diş çektirdim.
+Doktora gittim.
+Doktor ilaç verdi.
+Gözlük kullanmalıyım.
+Karnım ağrıyor
+Karnım aç.
+Susadım.
+Acıktım.
+Neyiniz var?
+Kendinizi nasıl hissediyorsunuz?
+Tedavi kaç gün sürer?
+Geçmiş olsun.
+Hangi dilleri konuşabiliyorsun?
+Kaç dil biliyorsunuz?
+Yabancı dil biliyor musunuz?
+Şehrinizin nüfusu ne kadar?
+Cumhurbaşkanınızın adı ne?
+Ankara’da havalar nasıl?
+Tatile nereye gideceksiniz?
+Bugün sıcaklık kaç derece?
+Terminale kaç numaralı otobüs gidiyor?
+Türkiye’nin başkenti neresi?
+Türkiye’nin para birimi ne?
+Türk bayrağında hangi renkler var?
+Kaç kardeşin var?
+Mesleğiniz ne? 
+Ne iş yapıyorsun? 
+Nerede çalışıyorsunuz?
+Sizin idealinizdeki meslek ne? 
+Büyüyünce ne olmak istiyorsun? 
+İleride ne olmak istiyorsun? 
+Doğum tarihin kaç?
+Telefon numaranız kaç?
+Vizeniz var mı?
+Valizinizi açar mısınız?
+Döviz bürosu nerede?
+Nerelisiniz?
+Ne zaman gitmek istiyorsunuz?
+Tek gidiş mi, gidiş-dönüş mü?
+Sigara içilmeyen yerden olsun lütfen.
+Pencere kenarı mı koridor mu?
+İstanbul’a en erken kaçta otobüsünüz var?
+Uçak için yer ayırmak istiyorum.
+Yakında bir lokanta var mı?
+Evet karşıda var.
+Tren ne zaman hareket ediyor?
+İstanbul-Ankara arası kaç saat sürüyor?
+Hangi dili biliyorsunuz?
+Hangi dilleri biliyorsunuz?
+Türkçe, İngilizce, Fransızca biliyorum.
+Türkçe biliyor musunuz?
+Evet, biraz biliyorum.
+Bugün sıcaklık kaç derece?
+Odanızı temizleyebilir miyim?
+Şehir merkezine nasıl gidebilirim?
+Ankara bileti istiyorum.
+36 pozluk bir film istiyorum.
+Fotoğrafınızı çekebilir miyim? 
+Bizim fotoğrafımızı çekebilir misiniz?
+Bu filmi banyo yapar mısınız?
+Kaçar adet istiyorsunuz?
+negatiften birer adet istiyorum.
+Otobüs durağı nerede?
+Dolar bozdurmak istiyorum.
+Penrece kenarı istiyorum.
+Nereden telefon edebilirim?
+Nereden geliyorsunuz?
+Nereye gitmek istiyorsunuz?
+Öğrenci indirimi var mı?
+Yolda mola veriyor musunuz?
+Yemek veriliyor mu?
+Mesleğiniz ne? 
+Ne iş yapıyorsunuz?
+Doktorum.
+Ne kadar bağaja izin veriliyor?
+Bağajım yok.
+Bagajı alabilir miyim?
+Bir soraki uçak ne zaman?
+Uçak vaktinde mi hareket ediyor?
+Uçak buraya ne zaman geliyor?
+Varış vakti ne zaman?
+Koltuğunuz 12F
+Benim yerime oturmuşsunuz.
+Emniyet kemerlerinizi takınız ve koltuklarınızı dik tutunuz.
+Lütfen koltuklarınızın arkasını dik tutunuz.
+Ne içmek istersiniz?
+Gümrüğe tabi bir şeyiniz var mı?
+Pasaportunuzu görebilir miyim?
+Yanınızda ne kadar paranız var?
+Vizeniz var mı?
+Ne kadar kalmayı planlıyorsunuz?
+Ziyaretinizin amacı nadir?
+Bir sonraki durak Antalya’dır.
+Boş yer var mı?
+Burada kimse oturuyor mu?
+Buranın sahibi var mı?
+Buraya oturabilir miyim?
+Hangi duraktayız?
+Bu otobüs nereye kadar gidiyor?
+Taksim'e gelince bana haber verir misiniz?
+Lütfen açılır mısınız?
+İnişler arka kapıdan.
+Nerden geliyorsunuz?
+Almanya’dan geliyorum.
+Nerelisiniz?
+Romanyalıyım.
+Nerede kalıyorsunuz?
+Kent Otel’de kalıyorum.
+Beni hava alanına götürün.
+Sigara içmemde sakınca var mı?
+Şurdaki ev mi?
+Adres burada yazılı.
+Burası uygun mu?
+Geç kaldım lütfen acele edin. 
+Yavaş gidin.
+Galiba kayboldum.
+En yakın tren istasyonu nerede?
+Postahane nerede?
+Hava alanına nasıl gidebilirim?
+Atatürk caddesini biliyor musunuz?
+Yürüyerek gidebilir miyim?
+Burdan oraya gidemezsiniz. 
+Bayağı uzak.
+Bu civarda.
+İlerde sağda.
+Köşeden sola dön.
+Dikkat et!
+Burdan dön.
+Tuvalete gitmem lâzım.
+Ne kadar bekleyebilirsiniz?
+İyi yolculuklar.
+İyi uçuşlar.
+Yolunuz açık olsun.
+Dikkatli sürün.
+Kendine dikkat et.
+Seni özleyeceğiz.
+Yolculuk nasıl geçti?
+Eğlendin mi?
+Hiç resim çektin mi?
+Yokluğunu çok hissettik.
+Araba Servisi
+Depoyu ful yapın lütfen.
+Yol haritası istiyorum.
+Lastikleri kontrol eder misiniz?
+Arabam bozuldu.
+Lastiğim patladı.
+Çekici istiyorum.
+Avukatımı görmek istiyorum.
+Suçumuz ne?
+Ben bir şey yapmadım.
+Ehliyetinizi görebilir miyim?
+Önceden iki kişilik yer ayırtmıştık.
+Çift kişilik odanız var mı?
+Boş odanız var mı?
+Arkadaş size odaları gösterecek onu takip edin lütlen.
+Kaç kişilik oda istersiniz?
+Asansör şurada merdivenin yanında.
+Cadde tarafında odanız varsa olabilir.
+Kaç gün kalacaksınız?
+5 gün.
+Kesin değil uzayabilir.
+Geceliği ne kadar?
+Bu odayı tutuyorum.
+Odaları görebilir miyim?
+Şu fişi doldurmanız gerekiyor.
+Bana bir not var mı?
+Afedersiniz 205 numarayı bağlayabilir misiniz?
+Tek kişilik odamız kalmadı. 
+Üzgünüm odamız kalmadı. 
+Üzgünüm otelimiz dolu 
+Yer ayırabilir miyim acaba?
+Evet buyrun sizi dinliyorum.
+Adınızı ve telefonunuzu söyler misiniz?
+İstediğini özel bir şey var mı?
+Odalarımız klimalıdır.
+Odalarımızda televizyon vardır.
+Balkonlu bir oda istiyorum.
+Denizi gören odalarımız var ister misiniz?
+Deniz gören odalar meşgul.
+Anahtarınızı vereyim mi?
+Anahtarı alabilir miyim?
+Kaç gün kalacaksınız?
+Günlüğü ne kadar?
+Yemek dahil günlüğü 200 TL.
+Kahvaltı veriyor musunuz? 
+Kahvaltı ne zaman veriliyor? 
+Kahvaltı başladı mı?
+Sadece kalma ücreti ne kadar?
+Kimliğinizi alabilir miyim?
+Resepsiyonun telefon numarası kaç?
+Resepsiyonun telefon numarası ne?
+Resepsiyonun telefonune?
+Bir ihtiyacınız olursa resepsiyonu arayabilirsiniz.
+Kredi kartı ile ödeme yapabilir miyim?
+Kredi kartı geçerlidir.
+Şuraya imza atabilir misiniz?
+Afersiniz 167 numaraya iki meyve suyu getirebilir misiniz?
+Oda numaranız 505.
+Kaç numaralı odada kalıyorsunuz?
+Aferdersiniz anahtarımı içeride unuttum, yedek var mı?
+Lütfen anahtarı giderken vermeyi unutmayın?
+Anahtarları nereye bırakayım?
+Buyrun hoş geldiniz.
+Ne arzu ederdiniz?
+Nasıl yardımcı olabilirim?
+Ne içmek istersiniz?
+Ne almak istersiniz?
+Buraya oturabilirsiniz.
+Rezervasyonunuz var mıydı?
+Buyrun buraya oturun lütfen?
+Üzgünüm burası meşgul.
+Şuraya oturmak istermisiniz?
+Bu masa ayırtıldı efendim.
+Hangi masaya oturmak istersiniz?
+Bahçede yerimiz var efendim.
+Dışarıda oturmak ister miydiniz?
+Üzgünüm burası aile için.
+Yukarıda da yerimiz var.
+Sandalye getireyim mi?
+İsterseniz iki masayı birleştirebiliriz.
+Üzgünüm yerimiz kalmadı.
+Çorbalardan neyiniz var?
+Salata çeşitleriniz nedir?
+Mönüyü alabilir miyim?
+Ben önce bir ezogelin istiyorum.
+İşkembe var mı?
+Önce birer mercimek çorbası alalım.
+Çorbadan sonra ne arzu edersiniz?
+Adana kebap var mı?
+Ben bir adana kebap istiyorum.
+Ben bir Urfa kebap alayım.
+Tavuk döner var mı?
+Salata ister misiniz?
+Cacık var mı?
+Ortaya bir çoban salatası lütfen.
+Meyve suyunuz varsa birer meyve suyu alalım .
+Ayranınız var mı?
+Birer ayran getirin lütfen?
+Aferdersiniz masayı temizleyebilir misiniz?
+Kürdan var mı acaba?
+Afiyet olsun efendim
+Bir arzunuz var mıydı efendim?
+Şöyle buyurun.
+Tatlı ister misiniz?
+Neler var?
+Tulumba, kadayıf, baklava, kazandibi, sütlaç, kemalpaşa var efendim.
+Kadayıf alayım.
+Yanında dondurma ister misiniz?
+Az pilav üstü kuru alayım.
+Sulu yemeğiniz var mı?
+Hesap lütfen.
+Hesabı kasaya ödüyorsunuz.
+Fiş alabilir miyim?
+Buyrun paranızın üstü.
+Üstü kalsın.
+Hayırlı işler.
+Yine bekleriz efendim.
+Lavabo nerede acaba.
+Peçete alabilir miyim?
+Çay alabir miyiz?
+Ellerimi nerede yıkayabilirim?
+Acıktım.
+Ne almak istiyorsun?
+Ekmek almak istiyorum.
+Fasulyenin kilosu kaç lira?
+Buyurun, ne arzu edersiniz?
+Meyvelerden ne almak istiyorsunuz?
+Tatlılardan ne var? 
+Yemeklerden ne var?
+Çorbalardan neler var?
+Yemek listesi lütfen!
+Bugün mönüde ne var?
+Kaç kilo elma istiyorsunuz?
+Yemek yemek istiyorum.
+Çay içmek ister misiniz?
+Çay içmek istiyorum.
+Ne yemek istersiniz?
+İçeceklerden ne var?
+Çay demleyebilir misin?
+Yemek pişirebiliyor musun?
+Sebzeler taze mi?
+Bugün öğle yemeğini nerede yiyeceksin?
+Yemeği nasıl buldun? 
+Yemeği beğendiniz mi?
+Ketçapı nerede?
+Maalesef kalmadı.
+Paket yapalım mı?
+Nasıl ödeyeceksiniz?
+Yemek kuponu alıyor musunuz?
+Kredi kartıyla mı yoksa nakit mi ödeyeceksiniz?
+Nakit ödeyeceğim.
+Kimliğinizi görebilir miyim?
+Yardım ister misiniz?
+Siparişimi alabilir miyim? 
+Siparişimi alayım.
+Bir hamburger büyük patates ve bir kola.
+Ne istersiniz?
+Küçük mü,  büyük mü?
+Burda mı yiyeceksiniz?
+Paket mi istiyorsunuz?
+Buz olmasın lütfen.
+Hangi içecekler var?
+Biber var mı?
+Tuz rica edeyim.
+Peçete alabilir miyim?
+427.Ketçap ister misiniz? 
+Ketçap olmasın.
+Mayonez kalsın.
+Soğan fazla olmasın.
+Yanında içecek ne istersiniz?
+Yanında içecek bir şey ister misiniz?
+Buyurun.
+Küçük bir pizza alayım.
+Peynirli sucuklu karışık olsun. 
+Ne zaman hazır olur?
+Kaç para?
+Ne kadar?
+Kaç kişisiniz?
+Iki kişilik masa.
+Sigara içilmeyen bir yer istiyorum
+Rezervasyonunuz var mı?
+Bir iki dakika içinde bir masa ayarlarız.
+Sigara içilen bir yer istiyorum.
+Burası aile yeri.
+Bu masaya başka biri oturacak.
+Beklettiğim için özür dilerim.
+İçecek bir şey ister misiniz?
+Mönüyü görmek istiyorum.
+Yanında çorba veya salata arzu eder misiniz?
+Kahve lütfen.
+Su getirir misiniz?
+Garson!
+Bakar mısınız?
+Birazdan söyleyeceğim.
+Birini bekliyorum.
+Siparişiniz henüz hazır değil efendim.
+Ne önerirsiniz?
+Yanında salata var mı?
+Vejetaryen yemekler var mı?
+Kebaplardan neler var?
+Biraz daha salata istiyorum. 
+Biraz daha ekmek alabilir miyim?
+Bu balık taze değil.
+Tuvalet ne tarafta?
+Paket olarak alabilir miyim?
+Dikkat edin tabak sıcak.
+Umarım yemeği beğemişsinizdir?
+Başka bir arzunuz var mı?
+Tatlı ister misiniz?
+Hesabı alabilir miyim? 
+Hesap lütfen.
+Hesaplar ayrı olsun lütfen.
+Fiş alabilir miyiz?
+Bana ödeyebilirsiniz.
+Galiba bir hata var.
+Üstü kalsın.
+Kim ısmarlıyor?
+Ben ısmarlıyorum.
+Sen ne alacaksın?
+Yemek ne zaman hazır olacak?
+Yemek hazır sayılır.
+Lütfen sofraya oturun.
+Tatmak ister misin?
+Tuzu bana uzatır mısın?
+Tabağını uzatır mısın?
+Ekmeği dağıtır mısın?
+Bana biraz daha salata koyabilir misin?
+Bundan daha var mı?
+Tatlı ne var?
+Elinize sağlık?
+Yemekler çok güzel olmuş.
+Allah ziyade etsin.
+Aspirin istiyorum.
+Böcek ilacı istiyorum.
+Ayak pudrası istiyorum
+Sıradaki.
+Sırada mısınız?
+Biletler ne kadar?
+Maalesef bilet kalmadı?
+Öğrenci indirimi var mı? 
+Grup indiriminiz var mı?
+Gösteri ne kadar sürüyor?
+Gösteri iki saat sürüyor.
+Rezervasyon yaptırdınız mı?
+Bozuğunuz var mı?
+Biletimizi başka bir gün için değiştirebilir misiniz?
+Bir düzine gül rica edecektim.
+Hangi çiçekler en taze?
+Doğum günü için bir çiçek almak istiyorum.
+Saçlarımı kestirmek istiyorum.
+Nasıl bir model istiyorsunuz?
+Saçınız yıkanacak mı?
+Çok kısa kesmeyin
+Bana niçin kızıyorsunuz?
+Size yemin edebilirim.
+Ciddi mi konuşuyorsunuz? 
+Şaka mı yapıyorsunuz?
+Şaka yapmıyorum. Çok ciddiyim.
+Söz veriyorum.
+Arabamı yıkar mısınız?
+Buraya park etmek yasaktır.
+Arabanızın plaka numarası ne?
+Ne yapıyorsun Ayşe?
+Kitap okuyorum.
+Akşam kaçta yatıyorsunuz?
+Sabah saat kaçta kalkıyorsunuz?
+Hayvanları sever misin?
+Hafta sonu sinemaya gidecek misin?
+Nereye gidiyorsun?
+Bugün çok yoğunum.
+Yeni bir tarif denedim.
+Merhaba!
+İyi akşamlar!
+Nasılsın?
+Yeni bir kitap okuyorum.
+Alışveriş yapacağım.
+Kendine iyi bak!
+En son hangi filmi izledin?
+Yoga yapıyorum.
+Ders çalışmam gerekiyor.
+Harika hissediyorum!
+Hoşça kal!
+Bugün nasılsın?
+Biraz yorgunum.
+Yemekte ne var?
+Ne yapıyorsun?
+Bahçeye çiçek diktim.
+Görüşürüz!
+Bu hafta sonu dinleneceğim.
+Yeni bir projeye başladım.
+Bugün ne öğrendin?
+Çocuklarla oyun oynuyorum.
+Tatile çıkmak istiyorum.
+Ne yemek istiyorsun?
+Bu hafta sonu ne yapacaksın?
+İyi geceler!
+Hangi sporu yapıyorsun?
+Açım, yemek yemem lazım.
+Sonra görüşürüz!
+Film izlemek istiyorum.
+Müzik dinliyorum.
+Kitap okumayı sever misin?
+Yeni bir dil öğreniyorum.
+Sadece dinleniyorum.
+Bahçede çalışıyorum.
+Kahve içmek istiyorum.
+Yeni bir telefon aldım.
+Yemek pişirmeyi seviyorum.
+İyi günler!
+Hangi dil öğrenmek istersin?
+Bu hafta sonu tatildeyim.
+Yüzmeyi seviyorum.
+Spor yapıyorum.
+Müzik dinlemeyi sever misin?
+Yarın erken kalkmam lazım.
+Hoşça kalın!
+Dışarı çıkmak istiyorum.
+Hangi filmi izlemek istersin?
+İyiyim, teşekkürler.
+Nasılsınız?
+En sevdiğin renk nedir?
+Bugün hava çok güzel.
+Görüşmek üzere!
+Evde kalacağım.
+Koşu yapmayı seviyorum.
+Selam!
+Kahve mi çay mı?
+Yeni bir diziye başladım.
+Evimde değişiklik yapıyorum.
+Hafta sonu planların ne?
+Kitap okumayı çok seviyorum.
+Hava nasıl bugün?
+Kedi besliyorum.
+Günaydın!
+Tatilde nereye gitmek istersin?
+Arkadaşlarımla buluşacağım.
